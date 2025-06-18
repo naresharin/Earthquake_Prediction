@@ -1,6 +1,6 @@
-#Earthquake_Prediction_Using_Deep_Learning
+# Earthquake_Prediction_Using_Deep_Learning
 
-In this project, we utilize an open-source global earthquake dataset available from the US Geological Survey (USGS) containing over 19700 records with details of past earthquakes, including geolocation, depth, magnitude, and timestamp. The data spans multiple decades and provides detailed seismic activity records.
+In this project, we utilize an open-source global earthquake dataset available from the US Geological Survey (USGS) containing over 19,700 records with details of past earthquakes, including geolocation, depth, magnitude, and timestamp. The data spans multiple decades and provides detailed seismic activity records.
 
 We aim to develop a machine learning model to classify earthquake events based on historical seismic attributes using a dense neural network. The primary goal is to learn from patterns in earthquake magnitude, depth, and location to identify high-magnitude events.
 
